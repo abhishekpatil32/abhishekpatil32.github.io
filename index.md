@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Dynamic interaction of functional brain connectivity in convergent and divergent creativity](/sample_page)
-<img src="images/Project1.png?raw=true"/>
+<img src="images/Project1.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
