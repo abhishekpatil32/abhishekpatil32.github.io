@@ -8,8 +8,8 @@
 <img src="images/Project1.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Effects of posterior-anterior shift in the aging brain on creativity: A combined ICA and resting-state fMRI study](/pdf/sample_presentation.pdf)
+<img src="images/Project2.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
