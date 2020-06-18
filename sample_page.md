@@ -1,31 +1,5 @@
-## This can be your internal website page / project page
+## Dynamic interaction of functional brain connectivity in convergent and divergent creativity
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p align="justify">
+**Abstract:** Creative thinking refers to a higher-level cognitive ability to produce useful and novel ideas for problem solving. Creative thinking has been characterized by divergent thinking (i.e. an ability to produce and combine multiple solutions to solve a particular problem) and convergent thinking (i.e. an ability to produce one single best solution using logic and various remote ideas). In this task-related functional MRI study, we applied correlational graph-theory analysis and regression-based psychophysiological interaction (PPI) analysis to examine whether and how convergent and divergent creative thinking modulates functional connectivity between creativity-associated brain regions. The whole brain analysis of divergent and convergent tasks showed a common activation for both tasks in the left-lateralized fronto-parietal and temporal regions, indicating the domain-generality of creativity-related processes. The correlational graph-theory analysis of functional connectivity showed right-lateralized fronto-cerebellar and fronto-hippocampal connectivity for divergent thinking, and bilateral fronto-cerebellar connectivity for convergent thinking, suggesting a domain- specific creativity-related network. Finally, the PPI analysis showed a dynamic interaction of functional connectivity with the front-parieto-cerebellar network when using the inferior frontal gyrus and hippocampus as seed regions for both creative thinking tasks. However, when using the posterior parietal cortex as a seed region, convergent thinking, but not divergent thinking, showed a positive connection with distributed fronto-temporal regions, suggesting the interaction of controlled goal- directed memory retrieval and prepotent-response inhibition of semantic information for convergent creativity. Our findings provide neuroscientific evidence for creativity- associated brain activation and neural networks, and further suggest the correlational and interactive nature of the functional connectivity between two types of creative cognition.
+</p>
