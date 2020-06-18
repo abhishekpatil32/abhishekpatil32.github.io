@@ -1,7 +1,7 @@
 ## News
 
 <p align="justify">
-  <b> Minor revision</b> for manuscript to Neuroimage entitled "Dynamic interaction of functional brain connectivity in convergent and divergent creativity" submitted in 10th April 2020
+  <b>Minor revision</b> for manuscript to Neuroimage entitled "Dynamic interaction of functional brain connectivity in convergent and divergent creativity" submitted in 10th April 2020
 </p>
 
 <p align="justify">
