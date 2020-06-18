@@ -1,5 +1,5 @@
   <p align="justify">
-  ## Dynamic interaction of functional brain connectivity in convergent and divergent creativity
+  <b> ## Dynamic interaction of functional brain connectivity in convergent and divergent creativity </b>
   </p>
 
   <p align="justify">
