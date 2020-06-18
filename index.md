@@ -8,10 +8,8 @@
 [Major revision for manuscript in collaboration with Hsu-Wen Huang to Mind, Brain and Education entitled "The use of brainwave neurofeedback in translational education for learning disorders" submitted in 23rd April 2020.]
 </p>
 
-<p align="centre">
-## Ongoing Projects 
-</p>
 
+## Ongoing Projects 
 [Dynamic interaction of functional brain connectivity in convergent and divergent creativity](/sample_page)
 <img src="images/Project1.png"/>
 
