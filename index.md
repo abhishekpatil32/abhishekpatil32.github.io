@@ -12,8 +12,8 @@
 <img src="images/Project2.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Internet addiction levels alter the functional connectivity of executive networks in the creative brain](http://example.com/)
+<img src="images/Project3.png"/>
 
 ---
 
