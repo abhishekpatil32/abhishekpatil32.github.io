@@ -1,4 +1,3 @@
----
 ## News
 
 <p align="justify">
@@ -30,7 +29,6 @@
 
 ### Completed Projects
 
-[Dynamic interaction of functional brain connectivity in convergent and divergent creativity](/sample_page)
-<img src="images/Project1.png"/>
+[Dynamic interaction of functional brain connectivity in convergent and divergent creativity](/sample_page)<img src="images/Project1.png"/>
 
 ---
