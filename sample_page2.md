@@ -1,5 +1,5 @@
 <p align="justify">
-  <b>Dynamic interaction of functional brain connectivity in convergent and divergent creativity</b>
+  <b>Internet addiction levels alter the functional connectivity of executive networks in the creative brain </b>
   </p>
 
   <p align="justify">
