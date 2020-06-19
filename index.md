@@ -24,7 +24,7 @@
 
 ### Publications (Awaiting...:P)
 
-- [In resillence](https://developingchild.harvard.edu/science/key-concepts/resilience/)
+- [In resillence](https://phdinahundredsteps.com/2016/08/09/building-researcher-resilience/)
 
 ---
 
