@@ -15,7 +15,7 @@
 <img src="images/Project2.png"/>
 
 ---
-[Internet addiction levels alter the functional connectivity of executive networks in the creative brain](http://example.com/)
+[Internet addiction levels alter the functional connectivity of executive networks in the creative brain](/sample_page2)
 <img src="images/Project3.png"/>
 
 ---
