@@ -1,11 +1,11 @@
 ## News
 
 <p align="justify">
-  <b>Minor revision</b> for manuscript to Neuroimage entitled "Dynamic interaction of functional brain connectivity in convergent and divergent creativity" submitted in 10th April 2020
+  <b>Minor revision</b> for manuscript to Neuroimage entitled "Dynamic interaction of functional brain connectivity in convergent and divergent creativity" submitted on 10th April 2020
 </p>
 
 <p align="justify">
-<b>Major revision</b> for manuscript in collaboration with Hsu-Wen Huang to Mind, Brain and Education entitled "The use of brainwave neurofeedback in translational education for learning disorders" submitted in 16th April 2020
+<b>Major revision</b> for manuscript in collaboration with Hsu-Wen Huang to Mind, Brain and Education entitled "The use of brainwave neurofeedback in translational education for learning disorders" submitted on 16th April 2020
 </p>
 
 ---
