@@ -32,3 +32,5 @@
 [Dynamic interaction of functional brain connectivity in convergent and divergent creativity](/sample_page)<img src="images/Project1.png"/>
 
 ---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
