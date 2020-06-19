@@ -1,21 +1,24 @@
-title: <p align="center"> Abhishek Patil </p>
-logo: "/images/logo1.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Computational Neuroscientist in making
+title: Abhishek Patil # your name (or website title) here
+ logo: "/images/logo.png?raw=true" # your photo (or logo) here
+ description: > # your text below (remove <br> elements if you don't need line breaks)
+   Computational Neuroscientist in Making 
+  
 
-   <br>
+   <br><br>
    
- PhD student at <a href="https://vit.ac.in" target="_blank" >VIT Vellore</a> in collaboration with Dr. Chih-Mao Huang and Hsu-Wen Huang<a href="https://huangslab.weebly.com" target="_blank" > (HUANGS' lab)</a>  
+   PhD student at <a href="https://vit.ac.in" target="_blank" >VIT Vellore</a> in collaboraton with Dr. Chih-Mao <a href="https://huangslab.weebly.com" target="_blank" >HUANGS' lab</a>  
    
    <br><br>
    
-  Research: Creativity, Creative Aging, Neuroscience, Neurofeedback.
-  
-  <br><br>
-  
-  <a href="https://in.linkedin.com/in/abhishek-patil-421a8014b" target="_blank" >View My LinkedIn Profile</a> 
-  
-  <br>
-  
-  <a href="https://twitter.com/PatilAbhishek32" target="_blank" >Follow me on Twitter</a> 
-theme: jekyll-theme-minimal
+   Research: Creativity, Creative Aging, Neuroscience, Neurofeedback.
+   
+   <br><br>
+   
+   <a href="https://in.linkedin.com/in/abhishek-patil-421a8014b" target="_blank" >View My LinkedIn Profile</a> 
+   
+   <br>
+   
+   <a href="https://twitter.com/PatilAbhishek32" target="_blank" >Follow me on Twitter</a> 
+
+ theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
