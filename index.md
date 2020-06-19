@@ -10,11 +10,8 @@
 
 
 ## Ongoing Projects 
-[Dynamic interaction of functional brain connectivity in convergent and divergent creativity](/sample_page)
-<img src="images/Project1.png"/>
 
----
-[Effects of posterior-anterior shift in the aging brain on creativity: A combined ICA and resting-state fMRI study](/pdf/sample_presentation.pdf)
+[Effects of posterior-anterior shift in the aging brain on creativity: A combined ICA and resting-state fMRI study](/pdf/CNS_poster.pdf)
 <img src="images/Project2.png"/>
 
 ---
@@ -28,6 +25,11 @@
 - [In resillence](http://example.com/)
 
 ---
+
+### Completed Projects
+
+[Dynamic interaction of functional brain connectivity in convergent and divergent creativity](/sample_page)
+<img src="images/Project1.png"/>
 
 
 
