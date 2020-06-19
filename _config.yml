@@ -1,4 +1,4 @@
-title: Abhishek Patil
+ title: Abhishek Patil
  logo: "/images/logo1.png"
  description: > # your text below (remove <br> elements if you don't need line breaks)
    Computational Neuroscientist in making
@@ -17,4 +17,4 @@ title: Abhishek Patil
   <br>
   
   <a href="https://twitter.com/PatilAbhishek32" target="_blank" >Follow me on Twitter</a> 
-theme: jekyll-theme-minimal
+ theme: jekyll-theme-minimal
