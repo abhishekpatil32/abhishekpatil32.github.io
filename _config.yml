@@ -1,7 +1,7 @@
- title : "Abhishek Patil"
+ title : <p align="justify"> "Abhishek Patil" </p>
  logo :  "/images/logo1.png"
  description : > # your text below (remove <br> elements if you don't need line breaks)
-     Computational Neuroscientist in making"
+   <p align="justify"> Computational Neuroscientist in making </p>
  
      <br><br>
      
