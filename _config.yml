@@ -18,6 +18,6 @@
      <a href="https://www.facebook.com/abhishek.patil.353803/" target="_blank" >Add me on Facebook</a>
      <br><br>
      
-     <label for="email">patil.abhishek32@gmail.com</label>
+     <a href = "mailto: patil.abhishek32@gmail.com">Send Email</a>
 
  theme : jekyll-theme-minimal
