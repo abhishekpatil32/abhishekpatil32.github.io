@@ -28,5 +28,13 @@
 [Dynamic interaction of functional brain connectivity in convergent and divergent creativity](/sample_page)<img src="images/Project1.png"/>
 
 ---
+
+### Collaborators
+
+- Dr. Chih-Mao Huang <a href="https://huangslab.weebly.com" target="_blank" ></a>
+- Dr. Hsu-Wen Huang <a href= "http://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_StfID=1009&peop_rkcl=1" target="_blank" ></a>
+
+
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
