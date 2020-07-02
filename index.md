@@ -31,8 +31,8 @@
 
 ### Collaborators
 
-- Dr. Chih-Mao Huang <a href="https://huangslab.weebly.com" target="_blank" ></a>
-- Dr. Hsu-Wen Huang <a href= "http://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_StfID=1009&peop_rkcl=1" target="_blank" ></a>
+- <p><a href="https://huangslab.weebly.com" target="_blank" >Dr. Chih-Mao Huang</a></p>
+- <p><a href= "http://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_StfID=1009&peop_rkcl=1" target="_blank">Dr. Hsu-Wen Huang</a></p>
 
 
 
