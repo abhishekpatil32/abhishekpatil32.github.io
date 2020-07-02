@@ -18,6 +18,6 @@
      <a href="https://www.facebook.com/abhishek.patil.353803/" target="_blank" >Add me on Facebook</a>
      <br><br>
      
-     <a href="patil.abhishek32@gmail.com" target="_blank" >E-mail id</a>
+     <label for="email">patil.abhishek32@gmail.com:</label>
 
  theme : jekyll-theme-minimal
