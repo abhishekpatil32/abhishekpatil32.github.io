@@ -1,13 +1,5 @@
 ## News
 
-<p align="justify">
-  <b>Minor revision</b> for manuscript to Neuroimage entitled "Dynamic interaction of functional brain connectivity in convergent and divergent creativity" submitted on 10th April 2020
-</p>
-
-<p align="justify">
-<b>Major revision</b> for manuscript in collaboration with Hsu-Wen Huang to Mind, Brain and Education entitled "The use of brainwave neurofeedback in translational education for learning disorders" submitted on 16th April 2020
-</p>
-
 ---
 
 ## Ongoing Projects 
@@ -21,9 +13,14 @@
 
 ---
 
-### Publications (Awaiting...:P)
+### Publications
 
-- [In resillence](https://phdinahundredsteps.com/2016/08/09/building-researcher-resilience/)
+- <b>A. U. Patil</b>, A. Dube, R. K. Jain, G. D. Jindal, and D. Madathil, “Classification and comparative analysis of control and migraine subjects using eeg signals,” in Information Systems Design and Intelligent Applications. Springer, 2019, pp. 31–39.
+
+- Rajesh Kumar Jain, Sushma N Bhat, Amitabh Dube, <b>Abhishek Patil</b>, Vidhi Jain, G.D Jindal, "Web-based portal for database and analysis of physiological variability", Conference proceedings of International Conference on Computing, Communication and Control Technology (IC4T 2018), held at Ram Swaroop Memorial University (SRMU). Lucknow. (2018) pp:6-9.
+
+- Jyoti Warrier, Sushma Bhat, Nishant Patil, <b>"Handbook on "Biosignals: Acquisition and Processing""</b>, at National Workshop on Biosignals:Acquision and Processing held at MGM College of Engineering, Navi-Mumbai.(2015) 
+
 
 ---
 
