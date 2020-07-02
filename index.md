@@ -31,10 +31,10 @@
 
 ### Collaborators
 
-- <p><a href="https://huangslab.weebly.com" target="_blank" >Dr. Chih-Mao Huang</a></p>
-- <p><a href= "http://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_StfID=1009&peop_rkcl=1" target="_blank">Dr. Hsu-Wen Huang</a></p>
+- <a href="https://huangslab.weebly.com" target="_blank" >Dr. Chih-Mao Huang</a>
+- <a href= "http://lt.cityu.edu.hk/People/Peop_peopleProfile.asp?peop_StfID=1009&peop_rkcl=1" target="_blank">Dr. Hsu-Wen Huang</a>
 
 
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
