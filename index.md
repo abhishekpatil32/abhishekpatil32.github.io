@@ -1,5 +1,9 @@
 ## News
 
+- <b>May 2020</b> - Presented a poster at Virtual CNS-2020 on Effects of posterior-anterior shift in the aging brain on creativity: A combined ICA and resting-state fMRI study
+- <b>March 2019</b> - Awarded the NSF funded travel award to attend the meeting SfNC-2019 held in California
+- <b>March 2019</b>- Presented poster at CNS-2019, California on Dynamic interaction of functional brain connectivity in convergent and divergent creativity
+
 ---
 
 ## Recent Publications
