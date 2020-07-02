@@ -15,11 +15,11 @@
 
 ### Publications
 
-- <b>A. U. Patil</b>, A. Dube, R. K. Jain, G. D. Jindal, and D. Madathil, “Classification and comparative analysis of control and migraine subjects using eeg signals,” in Information Systems Design and Intelligent Applications. Springer, 2019, pp. 31–39.
+- <p align="justify"> <b>A. U. Patil</b>, A. Dube, R. K. Jain, G. D. Jindal, and D. Madathil, “Classification and comparative analysis of control and migraine subjects using eeg signals,” in Information Systems Design and Intelligent Applications. Springer, 2019, pp. 31–39.</p>
 
-- Rajesh Kumar Jain, Sushma N Bhat, Amitabh Dube, <b>Abhishek Patil</b>, Vidhi Jain, G.D Jindal, "Web-based portal for database and analysis of physiological variability", Conference proceedings of International Conference on Computing, Communication and Control Technology (IC4T 2018), held at Ram Swaroop Memorial University (SRMU). Lucknow. (2018) pp:6-9.
+- <p align="justify"> Rajesh Kumar Jain, Sushma N Bhat, Amitabh Dube, <b>Abhishek Patil</b>, Vidhi Jain, G.D Jindal, "Web-based portal for database and analysis of physiological variability", Conference proceedings of International Conference on Computing, Communication and Control Technology (IC4T 2018), held at Ram Swaroop Memorial University (SRMU). Lucknow. (2018) pp:6-9.</p>
 
-- Jyoti Warrier, Sushma Bhat, Nishant Patil, <b>"Handbook on "Biosignals: Acquisition and Processing""</b>, at National Workshop on Biosignals:Acquision and Processing held at MGM College of Engineering, Navi-Mumbai.(2015) 
+- <p align="justify"> Jyoti Warrier, Sushma Bhat, Nishant Patil, <b>"Handbook on "Biosignals: Acquisition and Processing""</b>, at National Workshop on Biosignals:Acquision and Processing held at MGM College of Engineering, Navi-Mumbai.(2015).</p>
 
 
 ---
