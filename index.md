@@ -12,7 +12,7 @@
 
 - <p align="justify"> Rajesh Kumar Jain, Sushma N Bhat, Amitabh Dube, <b>Abhishek Patil</b>, Vidhi Jain, G.D Jindal, "Web-based portal for database and analysis of physiological variability", Conference proceedings of International Conference on Computing, Communication and Control Technology (IC4T 2018), held at Ram Swaroop Memorial University (SRMU). Lucknow. (2018) pp:6-9.</p>
 
-- <p align="justify"> Jyoti Warrier, Sushma Bhat, Nishant Patil, <b>"Handbook on "Biosignals: Acquisition and Processing""</b>, at National Workshop on Biosignals:Acquision and Processing held at MGM College of Engineering, Navi-Mumbai.(2015).</p>
+- <p align="justify"> Jyoti Warrier, Sushma Bhat, Nishant Patil, <b>"Handbook on "Biosignals: Acquisition and Processing""</b>, Self Published at National Workshop on Biosignals:Acquision and Processing held at MGM College of Engineering, Navi-Mumbai.(2015).</p>
 
 ---
 
