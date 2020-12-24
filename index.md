@@ -1,5 +1,5 @@
 ## News
-
+- <p align="justify"> <b> December 8, 2020 </b> Our paper is accepted in Scientific Reports (collaboration with VIT University, Academia Sinica, and National Taiwan Normal University)<b>「Scientific Reports」</b> </p>
 - <p align="justify"> <b>May 2020</b> - Presented a poster at Virtual CNS-2020 on Effects of posterior-anterior shift in the aging brain on creativity: A combined ICA and resting-state fMRI study.</p>
 - <p align="justify"> <b>March 2019</b>- Presented poster at CNS-2019, California on Dynamic interaction of functional brain connectivity in convergent and divergent creativity.</p>
 - <p align="justify"> <b>January 2019</b> - Awarded the NSF funded travel award to attend the meeting <a href="https://www.tsfnc.org" target="_blank" >SfNC</a> held in California.</p>
@@ -7,6 +7,8 @@
 ---
 
 ## Recent Publications
+
+- <p align="justify"> <b> Patil, A.U. </b>, Ghate, S., Madathil, D., Tzeng, O.J.L., Huang, H.W., Huang, C.M.* (In Press). Static and dynamic functional connectivity supports the configuration of brain networks associated with creative cognition. Scientific Reports.</p>
 
 - <p align="justify"> <b>A. U. Patil</b>, A. Dube, R. K. Jain, G. D. Jindal, and D. Madathil, “Classification and comparative analysis of control and migraine subjects using eeg signals,” in Information Systems Design and Intelligent Applications. Springer, 2019, pp. 31–39.</p>
 
