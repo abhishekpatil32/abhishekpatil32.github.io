@@ -1,5 +1,5 @@
 ## News
-- <p align="justify"> Happy to share my first PhD article. <b> Link: https://www.nature.com/articles/s41598-020-80293-2#article-info </b> </p>
+- <p align="justify"> Happy to share my first PhD article. <b> Link: <a href = >  https://www.nature.com/articles/s41598-020-80293-2#article-info </a> </b> </p>
 - <p align="justify"> <b> December 2020 </b> - Our paper is accepted in the journal <b> Scientific Reports </b> (collaboration with NCTU, Academia Sinica, and National Taiwan Normal University, Taiwan) </p>
 - <p align="justify"> <b>May 2020</b> - Presented a poster at Virtual CNS-2020 on Effects of posterior-anterior shift in the aging brain on creativity: A combined ICA and resting-state fMRI study.</p>
 - <p align="justify"> <b>March 2019</b>- Presented poster at CNS-2019, California on Dynamic interaction of functional brain connectivity in convergent and divergent creativity.</p>
@@ -9,10 +9,7 @@
 
 ## Recent Publications
 
-- <p align="justify"> <b> Patil, A.U. </b>, Ghate, S., Madathil, D. et al. Static and dynamic functional connectivity supports the configuration of brain networks associated with creative cognition. <b> Scientific Reports</b> 11, 165 (2021). https://doi.org/10.1038/s41598-020-80293-2 
-
-
-</b>.</p>
+- <p align="justify"> <b> Patil, A.U. </b>, Ghate, S., Madathil, D. et al. Static and dynamic functional connectivity supports the configuration of brain networks associated with creative cognition. <b> Scientific Reports</b> 11, 165 (2021). <a href=  https://doi.org/10.1038/s41598-020-80293-2 </a>
 
 - <p align="justify"> <b>A. U. Patil</b>, A. Dube, R. K. Jain, G. D. Jindal, and D. Madathil, “Classification and comparative analysis of control and migraine subjects using eeg signals,” in Information Systems Design and Intelligent Applications. Springer, 2019, pp. 31–39.</p>
 
