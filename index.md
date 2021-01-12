@@ -9,7 +9,7 @@
 
 ## Recent Publications
 
-- <p align="justify"> <b> Patil, A.U. </b>, Ghate, S., Madathil, D. et al. Static and dynamic functional connectivity supports the configuration of brain networks associated with creative cognition. <b> Scientific Reports</b> 11, 165 (2021). <a href=  https://doi.org/10.1038/s41598-020-80293-2 </a>
+- <p align="justify"> <b> Patil, A.U. </b>, Ghate, S., Madathil, D. et al. Static and dynamic functional connectivity supports the configuration of brain networks associated with creative cognition. <b> Scientific Reports</b> 11, 165 (2021). <a href=  https://doi.org/10.1038/s41598-020-80293-2> </a></p>
 
 - <p align="justify"> <b>A. U. Patil</b>, A. Dube, R. K. Jain, G. D. Jindal, and D. Madathil, “Classification and comparative analysis of control and migraine subjects using eeg signals,” in Information Systems Design and Intelligent Applications. Springer, 2019, pp. 31–39.</p>
 
