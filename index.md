@@ -25,8 +25,7 @@
 
 [Effects of posterior-anterior shift in the aging brain on creativity: A combined ICA and resting-state fMRI study](/pdf/CNS_poster.pdf)
 
-
-[Internet addiction levels alter the functional connectivity of executive networks in the creative brain](/sample_page2)
+[Internet addiction levels alter the functional connectivity of executive networks in the aging brain](/sample_page2)
 
 
 ---
