@@ -1,4 +1,5 @@
 ## News
+- <p align="justify"> <b> January 2021 </b> - Our paper is accepted in the journal <b> Frontiers of Aging Neuroscience </b> (collaboration with NCTU, Taiwan) </p>
 - <p align="justify"> Happy to share my first PhD article.  <a href="https://www.nature.com/articles/s41598-020-80293-2" target="_blank"> Link to my article </a> </p>
 - <p align="justify"> <b> December 2020 </b> - Our paper is accepted in the journal <b> Scientific Reports </b> (collaboration with NCTU, Academia Sinica, and National Taiwan Normal University, Taiwan) </p>
 - <p align="justify"> <b>May 2020</b> - Presented a poster at Virtual CNS-2020 on Effects of posterior-anterior shift in the aging brain on creativity: A combined ICA and resting-state fMRI study.</p>
