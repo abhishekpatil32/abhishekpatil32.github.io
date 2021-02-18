@@ -1,4 +1,5 @@
 ## News
+- <p align="justify"> Happy to share my second PhD article.  <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2021.607988/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE" target="_blank"> Link to my article </a> </p>
 - <p align="justify"> <b> January 2021 </b> - Our paper is accepted in the journal <b> Frontiers of Aging Neuroscience </b> (collaboration with NCTU, Taiwan) </p>
 - <p align="justify"> Happy to share my first PhD article.  <a href="https://www.nature.com/articles/s41598-020-80293-2" target="_blank"> Link to my article </a> </p>
 - <p align="justify"> <b> December 2020 </b> - Our paper is accepted in the journal <b> Scientific Reports </b> (collaboration with NCTU, Academia Sinica, and National Taiwan Normal University, Taiwan) </p>
