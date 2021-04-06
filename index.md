@@ -11,6 +11,9 @@
 
 ## Recent Publications
 
+
+- <p align="justify"> <b> Patil A U </b>, Madathil D and Huang C-M Healthy Aging Alters the Functional Connectivity of Creative Cognition in the Default Mode Network and Cerebellar Network. <b> Frontiers in Aging Neuroscience </b>, 13:607988 (2021). <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2021.607988/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE" target="_blank"> pdf </a></p>
+
 - <p align="justify"> <b> Patil, A.U. </b>, Ghate, S., Madathil, D. et al. Static and dynamic functional connectivity supports the configuration of brain networks associated with creative cognition. <b> Scientific Reports</b> 11, 165 (2021). <a href="https://www.nature.com/articles/s41598-020-80293-2.pdf" target="_blank"> pdf </a></p>
 
 - <p align="justify"> <b>A. U. Patil</b>, A. Dube, R. K. Jain, G. D. Jindal, and D. Madathil, “Classification and comparative analysis of control and migraine subjects using eeg signals,” in Information Systems Design and Intelligent Applications. Springer, 2019, pp. 31–39.</p>
