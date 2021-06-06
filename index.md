@@ -1,4 +1,6 @@
 ## News
+
+- <p align="justify"> <b> June 2021 </b> - Our paper is accepted in the journal <b> Human Brain Mapping </b> (collaboration with NCTU, Taiwan) </p>
 - <p align="justify"> Happy to share my second PhD article.  <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2021.607988/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE" target="_blank"> Link to my article </a> </p>
 - <p align="justify"> <b> January 2021 </b> - Our paper is accepted in the journal <b> Frontiers of Aging Neuroscience </b> (collaboration with NCTU, Taiwan) </p>
 - <p align="justify"> Happy to share my first PhD article.  <a href="https://www.nature.com/articles/s41598-020-80293-2" target="_blank"> Link to my article </a> </p>
@@ -10,7 +12,6 @@
 ---
 
 ## Recent Publications
-
 
 - <p align="justify"> <b> Patil A U </b>, Madathil D and Huang C-M Healthy Aging Alters the Functional Connectivity of Creative Cognition in the Default Mode Network and Cerebellar Network. <b> Frontiers in Aging Neuroscience</b>, 13:607988 (2021). <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2021.607988/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE" target="_blank"> pdf </a></p>
 
