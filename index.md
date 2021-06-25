@@ -12,7 +12,7 @@
 
 ## Recent Publications
   
-- <p align="justify"> <b> Patil, A. U.</b>, Madathil, D., & Huang, C.-M. (2021). Age-related and individual variations in altered prefrontal and cerebellar connectivity associated with the tendency of developing internet addiction. Human Brain Mapping, 1– 13. <a href="https://onlinelibrary.wiley.com/doi/10.1002/hbm.25562"_blank"> pdf </a> </p>
+- <p align="justify"> <b> Patil, A. U.</b>, Madathil, D., & Huang, C.-M. (2021). Age-related and individual variations in altered prefrontal and cerebellar connectivity associated with the tendency of developing internet addiction. <b> Human Brain Mapping </b>, 1– 13. <a href="https://onlinelibrary.wiley.com/doi/10.1002/hbm.25562"_blank"> pdf </a> </p>
 
 - <p align="justify"> <b> Patil A U </b>, Madathil D and Huang C-M Healthy Aging Alters the Functional Connectivity of Creative Cognition in the Default Mode Network and Cerebellar Network. <b> Frontiers in Aging Neuroscience</b>, 13:607988 (2021). <a href="https://www.frontiersin.org/articles/10.3389/fnagi.2021.607988/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE" target="_blank"> pdf </a></p>
 
